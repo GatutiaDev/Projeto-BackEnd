@@ -1,0 +1,3 @@
+[2025-06-04T17:20:15.153Z] - error ao inserir carrinho: TypeError: Cannot read properties of undefined (reading 'collection')
+[2025-06-04T17:20:34.231Z] - error ao inserir carrinho: TypeError: Cannot read properties of undefined (reading 'collection')
+[2025-06-05T19:35:04.567Z] - Erro ao atualizar usuários!ReferenceError: ObjectId is not defined
