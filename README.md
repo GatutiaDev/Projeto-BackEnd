@@ -32,7 +32,7 @@ O sistema é composto por módulos, cada um responsável por uma entidade difere
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/projeto-backend.git](https://github.com/seu-usuario/projeto-backend.git)
+    git clone https://github.com/GatutiaDev/Projeto-BackEnd.git
     cd projeto-backend
     ```
 
